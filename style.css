@@ -1,0 +1,36 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+}
+.blue {
+  background-color: blue;
+  text-align: center;
+  padding: 20px;
+}
+.blue img {
+  display: block;
+  margin: auto;
+  max-width: 100%;
+}
+.pink {
+  background-color: pink;
+  text-align: center;
+  padding: 20px;
+}
+h2, li {
+  color: white;
+}
+h2 {
+  font-size: 24px;
+  margin-top: 30px;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+li {
+  margin-top: 10px;
+  font-size: 20px;
+}
